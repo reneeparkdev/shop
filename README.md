@@ -29,3 +29,8 @@ ShopApplication을 올리고나서 한동안은 `itemMng.html` 페이지가 웹 
 
   > 2023-03-27 14:46:48.461 ERROR 29710 --- [-nio-80-exec-10] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: "class path resource [templates/item/itemMng.html]")] with root cause
 
+- 250105 : 계정 이사
+
+- Add more
+
+- ...
